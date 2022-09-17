@@ -3,12 +3,11 @@
 API endpoints for an ecommerce store.
 
 ## Features
--JWT Authentication
--Admin Page - where the admin can
- -*manage categories
- -*manage products
- -*manage orders
--API endpoint for searching products
+- JWT Authentication
+- Admin Page - where the admin can
+ - *manage categories
+ - *manage products
+ - *manage orders
 
 ## Tools used
 -Django
